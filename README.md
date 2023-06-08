@@ -1,2 +1,2 @@
 # row-counter
-made a counter app using HTML, CSS & JavaScript
+made an interactive counting website using HTML, CSS & JavaScript
